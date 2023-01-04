@@ -29,7 +29,7 @@
       "id" : "89f2f2c0-8c31-11ed-bfc6-b9e452112400"
     },
     "label" : "",
-    "name" : "Test Device 1",
+    "name" : "Test Device 2",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "Test Device",
@@ -43,7 +43,6 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
