@@ -1,0 +1,19 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "test_widget",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "2fcfc640-8c33-11ed-bfc6-b9e452112400"
+    },
+    "image" : null,
+    "title" : "Test Widget"
+  },
+  "widgets" : [ ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
